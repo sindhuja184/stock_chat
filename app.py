@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain.callbacks.streamlit import StreamlitCallbackHandler
+from langchain.callbacks.streamlit.streamlit_callback_handler import StreamlitCallbackHandler
 from agent import agent
 
 st.set_page_config(page_title="StockBot")
