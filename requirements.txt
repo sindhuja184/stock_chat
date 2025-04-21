@@ -3,7 +3,6 @@ langchain>=0.1.11
 langchain_groq
 sqlalchemy
 mysql-connector-python
-langchain
 ipykernel
 python-dotenv
 langchain_community
@@ -12,10 +11,9 @@ bs4
 arxiv
 pymupdf
 wikipedia
-langchain-text-spiltters
+langchain-text-splitters   
 langchain-openai
-langchain-community
-sentence_transformers
+sentence-transformers      #
 langchain_huggingface
 chromadb
 faiss-cpu
@@ -23,4 +21,3 @@ langchain_chroma
 fastapi
 uvicorn
 langserve
-
