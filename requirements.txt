@@ -11,9 +11,9 @@ bs4
 arxiv
 pymupdf
 wikipedia
-langchain-text-splitters   
+langchain-text-splitters
 langchain-openai
-sentence-transformers      #
+sentence-transformers
 langchain_huggingface
 chromadb
 faiss-cpu
