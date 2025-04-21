@@ -20,3 +20,11 @@ langchain_chroma
 fastapi
 uvicorn
 langserve
+streamlit
+langchain
+langchain_community
+duckduckgo-search
+groq
+python-dotenv
+arxiv
+pydantic
